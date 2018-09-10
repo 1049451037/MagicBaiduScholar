@@ -1,0 +1,11 @@
+README.md
+setup.py
+MagicBaiduScholar/__init__.py
+MagicBaiduScholar/config.py
+MagicBaiduScholar/magic_baidu_scholar.py
+MagicBaiduScholar.egg-info/PKG-INFO
+MagicBaiduScholar.egg-info/SOURCES.txt
+MagicBaiduScholar.egg-info/dependency_links.txt
+MagicBaiduScholar.egg-info/requires.txt
+MagicBaiduScholar.egg-info/top_level.txt
+MagicBaiduScholar/data/user_agents.txt
