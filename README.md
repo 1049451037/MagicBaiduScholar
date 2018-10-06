@@ -18,4 +18,4 @@ See or run test.py
 
 # Todo
 
-Actually, Baidu Scholar has many data to crawl such as users and journals. I will complement it later.
+Actually, Baidu Scholar has more data to crawl such as users and journals. I will complement later.
